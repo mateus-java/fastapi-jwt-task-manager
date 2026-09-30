@@ -88,4 +88,4 @@ Modern and secure RESTful API built with Python and **FastAPI**, designed for us
 
 ## 👤 Autor / Author
 
-Desenvolvido com dedicação por Sindi. 💻✨
+Desenvolvido por Mateus e Sindi. 💻✨
